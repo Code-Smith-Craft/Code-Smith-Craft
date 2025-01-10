@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Code-Smith-Craft" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/code-smith-craft.svg" alt="Code Smith Craft by Oyatulla Khudoyberganov" />
 </h1>
 
 Here are some ideas to get you started:
