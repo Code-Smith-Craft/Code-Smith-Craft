@@ -1,6 +1,6 @@
-## Hi there 👋
-
-**Code-Smith-Craft/Code-Smith-Craft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Code-Smith-Craft" />
+</h1>
 
 Here are some ideas to get you started:
 
