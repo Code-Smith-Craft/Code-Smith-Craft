@@ -10,9 +10,13 @@
 - ⚡ Fun fact: ...
 
 ```txt
-Laravel         10 hrs 3 mins   ███████████████████▓░░░░░   50.00 %
-Spring-boot     6 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   30.00 %
-Php             1 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Java            1 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Laravel         10 hrs 3 mins   ███████████████████▓░░░░░   52.85 %
+Spring-boot     6 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   36.63 %
+Php             1 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.26 %
+Java            1 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   5.26 %
 ```
 
+**Social Media:**
+
+[![Drupal](https://raw.githubusercontent.com/Code-Smith-Craft/Code-Smith-Craft/main/images/telegram.png)](https://www.drupal.org/u/hussainweb)
+[![GitHub](https://raw.githubusercontent.com/Code-Smith-Craft/Code-Smith-Craft/main/images/youtube.png)](https://github.com/hussainweb)
