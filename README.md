@@ -27,6 +27,6 @@ Java            1 hrs           ▒░░░░░░░░░░░░░░░
 </a>
 
 <a href="https://www.instagram.com/code_smith_craft_1998">
-    <img src="https://raw.githubusercontent.com/Code-Smith-Craft/Code-Smith-Craft/main/images/telegram.jpeg" alt="Telegram"  width="150" height="100" />
+    <img src="https://raw.githubusercontent.com/Code-Smith-Craft/Code-Smith-Craft/main/images/instagram.jpeg" alt="Telegram"  width="150" height="100" />
 </a>
 
