@@ -18,7 +18,7 @@ Java            1 hrs           ░░░░░░░░░░░░░░░░
 
 **Social Media:**
 
-<a href="www.youtube.com/@CodeSmithCraft">
+<a href="https://youtube.com/@codesmithcraft?si=YrpPolSaRCTimZ82">
     <img src="https://raw.githubusercontent.com/Code-Smith-Craft/Code-Smith-Craft/main/images/download (1).jpeg" alt="Example Image" />
 </a>
 
