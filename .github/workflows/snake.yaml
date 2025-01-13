@@ -8,6 +8,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
@@ -17,9 +18,14 @@ jobs:
         with:
           python-version: '3.8'
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # Install dependencies
+
       - name: Generate snake image
         run: |
-          python generate.py
+          python generate.py  # Run the script
 
       - name: Commit and push changes
         run: |
